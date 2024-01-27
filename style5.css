@@ -1,0 +1,11 @@
+.background { 
+    margin: 0px;
+  padding: 0px;
+
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background-image: url(angel2.jpg);
+  background-repeat: no-repeat
+  background-size cover;
+} 
